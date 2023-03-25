@@ -1,4 +1,4 @@
-package leetcodeInGo
+package removeduplicates
 
 func removeDuplicates(nums []int) int {
 	k := 1

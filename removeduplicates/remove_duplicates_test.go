@@ -1,4 +1,4 @@
-package leetcodeInGo
+package removeduplicates
 
 import (
 	"testing"
